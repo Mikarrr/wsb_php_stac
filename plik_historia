@@ -1,0 +1,13 @@
+    1  ls
+    2  cls
+    3  alias c<clear
+    4  alias c=clear
+    5  clear
+    6  pwd
+    7  c
+    8  git clone https://github.com/Mikarrr/wsb_php_stac.git
+    9  ls
+   10  cd wsb
+   11  cd wsb_php_stac
+   12  git status
+   13  history > plik_historia
